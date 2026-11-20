@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # APEX Logistics: Django on Zoho Catalyst AppSail
 
 One AppSail service runs Django. It serves the website at `/` and the API under `/api`, so the browser and the API share one domain (no CORS). Data is stored in the Catalyst Data Store.
@@ -95,3 +96,6 @@ Deploy `frontend/index.html` with Catalyst Web Client Hosting (a `client` folder
 - The dashboard reads up to 6,000 shipments per request (300 per Data Store query).
 - Production needs a payment method in Catalyst; the development environment is free.
 "# apexdynamo" 
+=======
+# vdart-project
+>>>>>>> 251a51b27f06984682608b7ba18736aa40be8008
