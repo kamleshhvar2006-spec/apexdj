@@ -94,3 +94,4 @@ Deploy `frontend/index.html` with Catalyst Web Client Hosting (a `client` folder
 - One admin account, no MFA. For several staff members, move to Catalyst Authentication.
 - The dashboard reads up to 6,000 shipments per request (300 per Data Store query).
 - Production needs a payment method in Catalyst; the development environment is free.
+"# apexdynamo" 
